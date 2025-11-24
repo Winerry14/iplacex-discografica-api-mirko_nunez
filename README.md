@@ -1,1 +1,1 @@
-# iplacex-discografica-api-mirko_nu-ez
+API REST Spring para administración de discografías favoritas de empleados de IPLACEX
